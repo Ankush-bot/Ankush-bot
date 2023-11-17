@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Core Java,C/C++,Web-development etc.**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/kumar/OneDrive/Desktop/web%20development%20project/Project.html](file:///C:/Users/kumar/OneDrive/Desktop/web%20development%20project/Project.html)
-
 - 📫 How to reach me **kumar2017ankush@gmail.com**
 
 - 📄 Know about my experiences [https://verify.onwingspan.com/](file:///C:/Users/kumar/OneDrive/Desktop/htmlcss.pdf)
