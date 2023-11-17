@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **kumar2017ankush@gmail.com**
 
-- 📄 Know about my experiences [https://verify.onwingspan.com/](file:///C:/Users/kumar/OneDrive/Desktop/htmlcss.pdf)
-
 - ⚡ Fun fact **I think I am funny😉**
 
 <h3 align="left">Connect with me:</h3>
